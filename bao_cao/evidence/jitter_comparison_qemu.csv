@@ -1,0 +1,3 @@
+policy,samples,min_us,avg_us,max_us,p99_us
+SCHED_OTHER,1428,298,5847.62,24300,19058
+SCHED_FIFO,1458,197,5193.47,10313,9915
