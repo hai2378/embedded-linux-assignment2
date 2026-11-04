@@ -1,0 +1,4 @@
+#ifndef SMS_SENSOR_HEADER_H
+#define SMS_SENSOR_HEADER_H
+#define SMS_SET_INTERVAL 0x1234
+#endif
