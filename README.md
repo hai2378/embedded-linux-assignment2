@@ -1,7 +1,5 @@
 # Embedded Linux Assignment 2 — Recovered Project Files
 
-> **Partial recovery:** This archive was assembled from the C files previously shared with ChatGPT plus numerical results/screenshots from the chat. It is **not** a complete copy of the Ubuntu `github_upload` directory. See `MISSING_FILES.md` before submitting it as the finished assignment.
-
 ## Structure
 
 - `app/` — four application sources: original, host mock, real-time, and real-time mock
